@@ -18,15 +18,12 @@ const About = () => {
           <div className="about-cards">
             <article className="about-card">
               <VscFolderLibrary className="about-icon"></VscFolderLibrary>
-              <h5>Projects</h5>
+              <h5><a href="#portfolio">Projects</a></h5>
               <small>5+Completed</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa, rem
-            eius ut odio dicta beatae deleniti alias dignissimos odit ea id
-            voluptatum, illum unde quidem laudantium commodi impedit maxime
-            repellat.
+            Hi' am a frontend developer who learning new skills in the feild of web devlopment. I'm open to Job opportunities where i can contribute, learn and grow. if you have a good opportunities that matches my skills and experience then feel free to contact me.
           </p>
           <a href="# " className="btn btn-primary">
             Let's talk

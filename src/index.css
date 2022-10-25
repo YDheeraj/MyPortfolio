@@ -11,6 +11,10 @@
 }
 
 :root{
+    /* grey=#151a1e
+       blue bg = #2c2c6c
+    */
+    --color-grey:#151a1e;
     --color-bg:#1f1f38;
     --color-bg-variant:#2c2c6c;
     --primary-color:#4db5ff;
@@ -38,7 +42,7 @@ body{
     background-color: black;
     color: var(--color-white);
     line-height: 1.7;
-    /* background-image: url(../src/assets/bg-texture.png); */
+    background-image: url(../src/assets/px_by_Gre3g.webp);
 
     
 }

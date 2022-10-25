@@ -16,9 +16,9 @@ const Footer = () => {
       </ul>
 
       <div className='footer-social'>
-        <a href='linkedin'><AiFillLinkedin></AiFillLinkedin></a>
-        <a href='insta'><AiFillInstagram></AiFillInstagram></a>
-        <a href='facebook'><AiFillGithub></AiFillGithub></a>
+        <a href='https://www.linkedin.com/in/dheeraj-kumar-yadav-2965071bb/' target='blank'><AiFillLinkedin></AiFillLinkedin></a>
+        <a href='https://www.instagram.com/yadavdheeraj2002/' target='blank'><AiFillInstagram></AiFillInstagram></a>
+        <a href='https://github.com/YDheeraj' target='blank'><AiFillGithub></AiFillGithub></a>
       </div>
 
       <div className='footer-copyright'>
