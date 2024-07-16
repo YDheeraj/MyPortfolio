@@ -27,7 +27,7 @@ const Portfolio = () => {
               GitHub
             </a>
             <a
-              href="https://easy-bell-bottoms-cod.cyclic.app/"
+              href="https://one00wpm.onrender.com"
               className="btn btn-primary"
               target="blank"
             >
@@ -64,14 +64,14 @@ const Portfolio = () => {
           <h3>Book Manager App</h3>
           <div className="portfolio-item-cv">
             <a
-              href="https://inspiring-madeleine-667dd4.netlify.app/"
+              href="https://github.com/YDheeraj/Book_Manager_MUI"
               className="btn"
               target="blank"
             >
               GitHub
             </a>
             <a
-              href="https://github.com/YDheeraj/Book_Manager_MUI"
+              href="https://inspiring-madeleine-667dd4.netlify.app/"
               className="btn btn-primary"
               target="blank"
             >
